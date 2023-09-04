@@ -28,5 +28,5 @@ public class LoopPractice3 {
             }
         }
         System.out.println("\n소수의 개수는 " + count + "개입니다.");
-    }
+    }//count랑 boolean사용법에서 틀리게 사용했다. 
 }
