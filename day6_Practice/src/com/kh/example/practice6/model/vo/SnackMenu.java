@@ -4,5 +4,5 @@ import java.util.Scanner;
 
 public class SnackMenu {
 	Scanner sc = new Scanner(System.in);
-	SnackController scr = new?
+	//SnackController scr = new?
 }
